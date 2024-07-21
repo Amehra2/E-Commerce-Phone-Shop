@@ -1,10 +1,4 @@
 /*
- * Name: Akash Mehra
- * Student ID: 21435333
- * Instructor: DR Ikram Rehman
- * Date: 27-11-2020
- * Course name: Computer Science
- * Module: Programming
 
 For this task, I am required to create a simulation of an online web shop. My shop will be mainly selling smartphones.
 For this task, the customer should also be able make a choice between a range of products, the customer also has the option to buy multiple same products.
